@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="[PASTE_YOUR_BANNER_LINK_HERE](https://canva.link/lik9wt6g9p3z27l)" width="100%" />
+</p>
 
 <!--
 **NSrivastava1012/NSrivastava1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
