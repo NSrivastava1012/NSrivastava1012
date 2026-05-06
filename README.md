@@ -107,7 +107,13 @@ From building ML models to creating web interfaces, I like working at the inters
 <tr>
 <td>
 <h3>✋ SignBridge</h3>
-<p>Speech → sign language converter</p>
+<p>🔹 Features:
+- One-touch emergency alert  
+- Real-time location sharing  
+- Compact wearable design  
+
+🔹 Tech Stack:
+Embedded Systems | IoT | Communication Modules</p>
 </td>
 <td>
 <h3>🌾 Farmify</h3>
