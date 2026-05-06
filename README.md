@@ -67,7 +67,7 @@ From building ML models to creating web interfaces, I like working at the inters
 <table align="center">
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=pandas" width="50"/><br>Pandas
+<img src="https://techicons.dev/icons/pandas" width="50"/><br>Pandas
 </td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=numpy" width="50"/><br>NumPy
