@@ -50,7 +50,7 @@ From building ML models to creating web interfaces, I like working at the inters
 <img src="https://skillicons.dev/icons?i=css" width="50"/><br>CSS
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=react" width="50"/><br>React
+<img src="https://skillicons.dev/icons?i=java" width="50"/><br>Java
 </td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=flask" width="50"/><br>Flask
@@ -70,13 +70,13 @@ From building ML models to creating web interfaces, I like working at the inters
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/><br>Pandas
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=numpy" width="50"/><br>NumPy
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/><br>NumPy
 </td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=sklearn" width="50"/><br>Scikit-learn
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=matplotlib" width="50"/><br>Matplotlib
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/><br>Matplotlib
 </td>
 </tr>
 </table>
@@ -94,12 +94,6 @@ From building ML models to creating web interfaces, I like working at the inters
 </td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>VS Code
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=vercel" width="50"/><br>Vercel
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=render" width="50"/><br>Render
 </td>
 </tr>
 </table>
