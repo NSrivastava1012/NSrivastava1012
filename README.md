@@ -97,30 +97,24 @@ From building ML models to creating web interfaces, I like working at the inters
 </td>
 </tr>
 </table>
-<!-- Project Section -->
 ---
+
+<!-- Project Section -->
 
 ## 🚀 Projects That Matter  
 
-### ✋ HerShield  
-🔹 Features:
-- One-touch emergency alert  
-- Real-time location sharing  
-- Compact wearable design  
-
-🔹 Tech Stack:
-Embedded Systems | IoT | Communication Modules 
-
----
-
-### 🌾 Farmify  
-🔹 Features:
-- Farmer–buyer direct connection  
-- Crop and resource management  
-- User-friendly interface  
-
-🔹 Tech Stack:
-HTML | CSS | JavaScript | SQL
+<table>
+<tr>
+<td>
+<h3>✋ SignBridge</h3>
+<p>Speech → sign language converter</p>
+</td>
+<td>
+<h3>🌾 Farmify</h3>
+<p>Smart agriculture system</p>
+</td>
+</tr>
+</table>
 ---
 <!--
 **NSrivastava1012/NSrivastava1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
