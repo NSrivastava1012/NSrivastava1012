@@ -17,20 +17,53 @@
 <!-- About me -->
 ---
 
-## 🧠 Who Am
+## 🧠 Who Am I
 
 I’m a Computer Science undergraduate who enjoys turning ideas into real-world applications.  
-From building ML models to creating web interfaces, I like working at the intersection of logic and creativity.  
+From building ML models to creating web interfaces, I like working at the intersection of logic and creativity.    
 
-Currently working on projects like a Student Performance Predictor and enhancing an Email Spam Classifier with smarter insights.  
+- 🎓 Pursuing B.Tech in Computer Science and Engineering @ VIT Bhopal  
+- 🔍 Exploring Machine Learning and Web Development  
+- ⚡ Presently Focusing on DSA & problem solving  
+- 🎯 Building real-world projects and learning
+- 🤝 Open to internships, apprenticeships, and hackathons
+- 📫 Reach me at navyasrivastava1025@gmail.com
 
-Always learning, building, and improving.
+---
 
-- 🎓 B.Tech CSE @ VIT Bhopal  
-- 🔍 Exploring Machine Learning + Web Development  
-- ⚡ Focused on DSA & problem solving  
-- 🎯 Building real-world projects  
+<!-- Tech Stack -->
+## ⚒️ What I Work With  
 
+Languages   → Python | Java | JavaScript  
+Frontend    → HTML | CSS  
+Backend     → Node.js | Flask  
+Data & ML   → Pandas | NumPy | Scikit-learn  
+Tools       → Git | GitHub | VS Code
+
+<!-- Project Section -->
+---
+
+## 🚀 Projects That Matter  
+
+### ✋ HerShield  
+🔹 Features:
+- One-touch emergency alert  
+- Real-time location sharing  
+- Compact wearable design  
+
+🔹 Tech Stack:
+Embedded Systems | IoT | Communication Modules 
+
+---
+
+### 🌾 Farmify  
+🔹 Features:
+- Farmer–buyer direct connection  
+- Crop and resource management  
+- User-friendly interface  
+
+🔹 Tech Stack:
+HTML | CSS | JavaScript | SQL
 ---
 <!--
 **NSrivastava1012/NSrivastava1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
