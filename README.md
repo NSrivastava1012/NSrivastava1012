@@ -32,13 +32,11 @@ From building ML models to creating web interfaces, I like working at the inters
 ---
 
 <!-- Tech Stack -->
-## ⚒️ What I Work With  
-
-Languages   → Python | Java | JavaScript  
-Frontend    → HTML | CSS  
-Backend     → Node.js | Flask  
-Data & ML   → Pandas | NumPy | Scikit-learn  
-Tools       → Git | GitHub | VS Code
+class Developer:
+    name = "Aashutosh"
+    role = "ML + Web Developer"
+    skills = ["Python", "JavaScript", "Flask"]
+    focus = "Building impactful projects"
 
 <!-- Project Section -->
 ---
