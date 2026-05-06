@@ -32,12 +32,13 @@ From building ML models to creating web interfaces, I like working at the inters
 ---
 
 <!-- Tech Stack -->
-class Developer:
-    name = "Aashutosh"
-    role = "ML + Web Developer"
-    skills = ["Python", "JavaScript", "Flask"]
-    focus = "Building impactful projects"
-
+tech_stack = {
+    "Languages": ["Python", "JavaScript"],
+    "Frontend": ["HTML", "CSS", "React"],
+    "Backend": ["Flask", "Node.js"],
+    "ML & Data": ["Pandas", "NumPy", "Scikit-learn"],
+    "Tools": ["Git", "GitHub", "VS Code"]
+}
 <!-- Project Section -->
 ---
 
