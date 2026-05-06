@@ -199,8 +199,8 @@ Machine Learning | Web Development | Problem Solving
 
 <!-- Github Stats -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME"/>
+<img src="https://github-readme-stats.vercel.app/api?username=NSrivastava1012"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NSrivastava1012"/>
 </p>
 <!--
 **NSrivastava1012/NSrivastava1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
