@@ -124,6 +124,12 @@ From building ML models to creating web interfaces, I like working at the inters
 ESP32 | Android Studio | GPS | GSM | IoT
 </p>
 
+<p align="center">
+<a href="https://github.com/NSrivastava1012/HerShield">
+<img src="https://img.shields.io/badge/View%20Repo-000?style=for-the-badge&logo=github">
+</a>
+</p>
+
 </td>
 
 <td width="300" align="center">
@@ -144,6 +150,13 @@ ESP32 | Android Studio | GPS | GSM | IoT
 🔹 <b>Tech Stack:</b><br>
 HTML | CSS | Node.js | MongoDB | Matplotlib | Weather API 
 </p>
+
+<p align="center">
+<a href="https://github.com/Aashu4you/Farmify-">
+<img src="https://img.shields.io/badge/View%20Repo-000?style=for-the-badge&logo=github">
+</a>
+</p>
+
 </td>
 </tr>
 </table>
