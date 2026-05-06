@@ -103,22 +103,84 @@ From building ML models to creating web interfaces, I like working at the inters
 
 ## 🚀 Projects That Matter  
 
-<table>
+<table align="center">
 <tr>
-<td>
-<h3>✋ SignBridge</h3>
-<p>🔹 Features:
-- One-touch emergency alert  
-- Real-time location sharing  
-- Compact wearable design  
 
-🔹 Tech Stack:
-Embedded Systems | IoT | Communication Modules</p>
+<td width="300" align="center">
+
+<h3>HerShield: Women Safety Smart Pendant</h3>
+<p><i>IoT-based emergency wearable with mobile integration</i></p>
+
+<p align="left">
+🔹 <b>Features:</b><br>
+- One-touch SOS emergency trigger<br>
+- Real-time location sharing via GPS & GSM<br>
+- Mobile app for alerts, live tracking & history<br>
+- Seamless device-to-app communication
+</p>
+
+<p align="left">
+🔹 <b>Tech Stack:</b><br>
+ESP32 | Android Studio | GPS | GSM | IoT
+</p>
+
 </td>
-<td>
-<h3>🌾 Farmify</h3>
-<p>Smart agriculture system</p>
+
+<td width="300" align="center">
+
+<h3>Farmify: Farm Management System</h3>
+<p><i>Digital solution for modern farming</i></p>
+
+<p align="left">
+🔹 <b>Features:</b><br>
+- Crop scheduling and management<br>
+- Real-time weather tracking (API integration)<br>
+- AI chatbot for farmer assistance<br>
+- Government schemes information access<br>
+- Data visualization for yield and rainfall analysis 
+</p>
+
+<p align="left">
+🔹 <b>Tech Stack:</b><br>
+HTML | CSS | Node.js | MongoDB | Matplotlib | Weather API 
+</p>
 </td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+
+<td width="300" align="center">
+
+<h3>💡 More Coming Soon...</h3>
+<p><i>New projects in progress 🚀</i></p>
+
+<p align="left">
+🔹 <b>Working On:</b><br>
+- Real-world ML applications<br>
+- Scalable web solutions<br>
+- Creative tech ideas  
+</p>
+
+<p align="left">
+🔹 <b>Focus Areas:</b><br>
+Machine Learning | Web Development | Problem Solving  
+</p>
+
+</td>
+
+<td width="300" align="center">
+
+<h3>🚧 In Development</h3>
+<p><i>Building something exciting ⚡</i></p>
+
+<p align="center">
+✨ Stay tuned for upcoming projects!  
+</p>
+
+</td>
+
 </tr>
 </table>
 ---
