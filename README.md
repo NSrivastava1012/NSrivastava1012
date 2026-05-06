@@ -32,9 +32,77 @@ From building ML models to creating web interfaces, I like working at the inters
 ---
 
 <!-- Tech Stack -->
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,flask,git"/>
-</p>
+<h2 align="center">⚒️ Tech Stack</h2>
+
+<h3 align="center">💻 Languages & Web</h3>
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="50"/><br>Python
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" width="50"/><br>JavaScript
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="50"/><br>HTML
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="50"/><br>CSS
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="50"/><br>React
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=flask" width="50"/><br>Flask
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>Node.js
+</td>
+</tr>
+</table>
+
+---
+
+<h3 align="center">📊 Data & ML</h3>
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=pandas" width="50"/><br>Pandas
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=numpy" width="50"/><br>NumPy
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=sklearn" width="50"/><br>Scikit-learn
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=matplotlib" width="50"/><br>Matplotlib
+</td>
+</tr>
+</table>
+
+---
+
+<h3 align="center">⚙️ Tools & Platforms</h3>
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>VS Code
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vercel" width="50"/><br>Vercel
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=render" width="50"/><br>Render
+</td>
+</tr>
+</table>
 <!-- Project Section -->
 ---
 
