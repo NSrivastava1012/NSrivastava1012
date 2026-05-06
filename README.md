@@ -32,13 +32,9 @@ From building ML models to creating web interfaces, I like working at the inters
 ---
 
 <!-- Tech Stack -->
-tech_stack = {
-    "Languages": ["Python", "JavaScript"],
-    "Frontend": ["HTML", "CSS", "React"],
-    "Backend": ["Flask", "Node.js"],
-    "ML & Data": ["Pandas", "NumPy", "Scikit-learn"],
-    "Tools": ["Git", "GitHub", "VS Code"]
-}
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,flask,git"/>
+</p>
 <!-- Project Section -->
 ---
 
