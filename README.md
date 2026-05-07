@@ -198,6 +198,7 @@ Machine Learning | Web Development | Problem Solving
 </table>
 
 <!-- Github Stats -->
+## 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=NSrivastava1012&show_icons=true&theme=tokyonight"/>
 <br>
@@ -205,6 +206,15 @@ Machine Learning | Web Development | Problem Solving
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSrivastava1012&layout=compact&theme=tokyonight"/>
 </p>
+
+<!-- Current Goals -->
+## 🧩 Currently Working On
+- [ ] ML Web Apps  
+- [ ] Improve DSA  
+- [ ] Build unique projects
+
+<!-- Connect Section -->
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge"/></a>
 <!--
 **NSrivastava1012/NSrivastava1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
