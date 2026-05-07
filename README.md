@@ -97,7 +97,6 @@ From building ML models to creating web interfaces, I like working at the inters
 </td>
 </tr>
 </table>
----
 
 <!-- Project Section -->
 
@@ -240,7 +239,10 @@ Machine Learning | Web Development | Problem Solving
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 <!-- Quote Ending -->
+<p align="center">
 ✨ "Code. Learn. Build. Repeat."
+</p>
+
 <!--
 **NSrivastava1012/NSrivastava1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
