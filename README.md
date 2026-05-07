@@ -4,11 +4,6 @@
 </p>
 
 <!-- Intro -->
-<h1 align="center">Hey 👋, I'm Navya</h1>
-
-<p align="center">
-💻 Developer • 🌱 Learner • 🚀 Builder  
-</p>
 
 <p align="center">
 <i>I build real-world projects that solve real problems.</i>
