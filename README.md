@@ -219,7 +219,7 @@ Machine Learning | Web Development | Problem Solving
 ## 🔗 Connect with Me
 
 <a href="https://www.linkedin.com/in/navya-srivastava-53350528a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B83oyJsunTICS1OO8a1iufA%3D%3D">
-<img src="https://img.shields.io/badge/Linkdin-000?style=for-the-badge&logo=linkdin&logoColor=blue"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/NSrivastava1012">
