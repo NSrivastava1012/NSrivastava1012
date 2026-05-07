@@ -213,8 +213,28 @@ Machine Learning | Web Development | Problem Solving
 - [ ] Improve DSA  
 - [ ] Build unique projects
 
+---
+
 <!-- Connect Section -->
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge"/></a>
+## 🔗 Connect with Me
+
+<a href="https://www.linkedin.com/in/navya-srivastava-53350528a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B83oyJsunTICS1OO8a1iufA%3D%3D">
+<img src="https://img.shields.io/badge/Linkdin-000?style=for-the-badge&logo=linkdin&logoColor=blue"/>
+</a>
+
+<a href="https://github.com/NSrivastava1012">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/p3LulXQ3lZ/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="mailto:navyasrivastava1025@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+---
 <!--
 **NSrivastava1012/NSrivastava1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
