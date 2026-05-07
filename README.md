@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://canva.link/lik9wt6g9p3z27l" width="100%" />
+<img src="banner.png"/>
 </p>
 
 <!-- Intro -->
